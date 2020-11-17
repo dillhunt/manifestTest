@@ -10,5 +10,6 @@
 
     <!--ECU_Interfaces Git Projects included-->
     <project name="hello-world" remote="dillhunt" path="Test1/helloWorld"/>
+    <project name="RandomCode" remote="dillhunt" path="Test2/RandomPythonCode"/>
 
 </manifest>
