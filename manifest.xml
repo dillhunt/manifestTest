@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="dillhunt" 
+            fetch="https://github.com/dillhunt/"/>
+            
+    <default revision="refs/heads/master"
+             remote="dillhunt"
+             sync-j="4"/>
+
+    <!--ECU_Interfaces Git Projects included-->
+    <project name="hello-world" remote="dillhunt" path="Test1/helloWorld"/>
+
+</manifest>
